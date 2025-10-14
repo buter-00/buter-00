@@ -20,3 +20,7 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v3.3.0
