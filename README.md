@@ -9,43 +9,30 @@
 
 ---
 
-## 🧠 GitHub Stats
+## 🧠 GitHub Stats & 💻 Top Languages
+
+<table>
+<tr>
+<td>
 
 <picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=buter-00&show_icons=true&theme=ambient_gradient" 
-    media="(prefers-color-scheme: light)" 
-  />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=buter-00&show_icons=true&theme=ambient_gradient" 
-    media="(prefers-color-scheme: dark)" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=buter-00&show_icons=true&theme=ambient_gradient" 
-    alt="GitHub stats" 
-    style="width:100%; max-width:1200px;"
-  />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=buter-00&show_icons=true&theme=ambient_gradient" media="(prefers-color-scheme: light)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=buter-00&show_icons=true&theme=ambient_gradient" media="(prefers-color-scheme: dark)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=buter-00&show_icons=true&theme=ambient_gradient" alt="GitHub stats" style="width:100%; max-width:450px;">
 </picture>
 
----
-
-## 💻 Top Languages
+</td>
+<td>
 
 <picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=buter-00&layout=compact&langs_count=6&theme=ambient_gradient" 
-    media="(prefers-color-scheme: light)" 
-  />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=buter-00&layout=compact&langs_count=6&theme=ambient_gradient" 
-    media="(prefers-color-scheme: dark)" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=buter-00&layout=compact&langs_count=6&theme=ambient_gradient" 
-    alt="Top languages" 
-    style="width:100%; max-width:1200px;"
-  />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=buter-00&layout=compact&langs_count=6&theme=ambient_gradient" media="(prefers-color-scheme: light)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=buter-00&layout=compact&langs_count=6&theme=ambient_gradient" media="(prefers-color-scheme: dark)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buter-00&layout=compact&langs_count=6&theme=ambient_gradient" alt="Top languages" style="width:100%; max-width:450px;">
 </picture>
+
+</td>
+</tr>
+</table>
 
 ---
 
