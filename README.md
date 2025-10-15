@@ -6,8 +6,6 @@
   <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/buter-00/buter-00/output/github-contribution-grid-snake.svg" />
 </picture>
 
----
-
 📊 GitHub Stats & Donut Languages  
 
 <div style="display:flex; align-items:flex-start; justify-content:space-between; flex-wrap:wrap;">
