@@ -8,52 +8,13 @@
 
 ---
 
-### 📊 GitHub Stats & Top Languages
+📊 GitHub Stats & Donut Languages  
 
-<p float="left">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=buter-00&show_icons=true&theme=ambient_gradient"
-      media="(prefers-color-scheme: dark)" 
-    />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=buter-00&show_icons=true&theme=ambient_gradient"
-      media="(prefers-color-scheme: light)" 
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=buter-00&show_icons=true&theme=ambient_gradient" 
-      alt="GitHub stats"
-      width="49%"
-    />
-  </picture>
-  
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=buter-00&layout=compact&theme=ambient_gradient&langs_count=5&hide=Jupyter%20Notebook"
-      media="(prefers-color-scheme: dark)" 
-    />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=buter-00&layout=compact&theme=ambient_gradient&langs_count=5&hide=Jupyter%20Notebook"
-      media="(prefers-color-scheme: light)" 
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=buter-00&layout=compact&theme=ambient_gradient&langs_count=5&hide=Jupyter%20Notebook" 
-      alt="Top languages"
-      width="49%"
-    />
-  </picture>
-</p>
-
----
-
-### 📌 Pinned Repositories
-
-<a href="https://github.com/buter-00/example-repo-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buter-00&repo=example-repo-1&theme=ambient_gradient" />
-</a>
-<a href="https://github.com/buter-00/example-repo-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buter-00&repo=example-repo-2&theme=ambient_gradient" />
-</a>
-<a href="https://github.com/buter-00/example-repo-3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buter-00&repo=example-repo-3&theme=ambient_gradient" />
-</a>
+<div style="display:flex; align-items:flex-start; justify-content:space-between; flex-wrap:wrap;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=buter-00&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&rank_icon=https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=buter-00&layout=donut&theme=dark&hide_border=true&langs_count=6" 
+  />
+</div>
