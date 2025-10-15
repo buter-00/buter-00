@@ -6,39 +6,36 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/buter-00/buter-00/output/github-contribution-grid-snake.svg" />
 </picture>
 
-## 🧠 GitHub Stats
+## 🧠 Статистика GitHub
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=buter-00&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
-    media="(prefers-color-scheme: dark)" 
-  />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=buter-00&show_icons=true&include_all_commits=true&count_private=true&theme=light"
+    srcset="https://github-readme-stats.vercel.app/api?username=buter-00&show_icons=true&theme=ambient_gradient"
     media="(prefers-color-scheme: light)" 
   />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=buter-00&show_icons=true&theme=ambient_gradient"
+    media="(prefers-color-scheme: dark)" 
+  />
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=buter-00&show_icons=true&include_all_commits=true&count_private=true&theme=light" 
+    src="https://github-readme-stats.vercel.app/api?username=buter-00&show_icons=true&theme=ambient_gradient" 
     alt="GitHub stats"
   />
 </picture>
 
----
-
-## 💻 Top Languages
+## 💻 Языки
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=buter-00&layout=compact&langs_count=5&hide=Python,JavaScript&theme=dark"
-    media="(prefers-color-scheme: dark)" 
-  />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=buter-00&layout=compact&langs_count=5&hide=Python,JavaScript&theme=light"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=buter-00&layout=compact&theme=ambient_gradient"
     media="(prefers-color-scheme: light)" 
   />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=buter-00&layout=compact&theme=ambient_gradient"
+    media="(prefers-color-scheme: dark)" 
+  />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=buter-00&layout=compact&langs_count=5&hide=Python,JavaScript&theme=light" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=buter-00&layout=compact&theme=ambient_gradient"
     alt="Top languages"
   />
 </picture>
-
