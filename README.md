@@ -20,6 +20,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=buter-00&show_icons=true&theme=ambient_gradient" 
     alt="GitHub stats"
+    style="width:100%; max-width:1000px;"
   />
 </picture>
 
