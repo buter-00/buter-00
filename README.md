@@ -38,5 +38,6 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=buter-00&layout=compact&theme=ambient_gradient"
     alt="Top languages"
+    style="width:100%; max-width:1000px;"
   />
 </picture>
