@@ -19,7 +19,7 @@
 </div>
 
 ---
-<!-- Нижняя строка: Pins на одной линии -->
+<!-- Нижняя строка: Pins на одной линии
 <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
   <a href="https://github.com/buter-00/Saved-Tab---New-Tab-Page">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=buter-00&repo=New-Tab&show_owner=true&description_lines_count=3&theme=transparent" />
@@ -28,3 +28,4 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=buter-00&repo=ACHIEVEMENTS&show_owner=true&description_lines_count=3&theme=transparent" />
   </a>
 </div>
+-->
